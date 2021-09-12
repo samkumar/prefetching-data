@@ -1,0 +1,1 @@
+taskset -c 0 ./cpp/mmult_eigen_vec_par 4 16384 vec

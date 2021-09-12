@@ -1,0 +1,1 @@
+taskset -c 0 ./cpp/mmult_eigen 4 4096 mat
