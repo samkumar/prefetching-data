@@ -1,1 +1,0 @@
-taskset -c 0 ./cpp/sort_merge 42 268435456 bitonic_merge false
