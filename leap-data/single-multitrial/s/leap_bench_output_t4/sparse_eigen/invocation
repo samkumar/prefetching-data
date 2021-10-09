@@ -1,1 +1,0 @@
-taskset -c 0 ./cpp/sparse_eigen 4 5500 false
